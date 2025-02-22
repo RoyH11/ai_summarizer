@@ -1,0 +1,17 @@
+# Ignore Python virtual environments
+venv/
+envs/
+__pycache__/
+
+# Ignore Conda environment folders
+*.conda
+*.env
+*.ipynb_checkpoints
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and environment variables
+*.log
+.env
