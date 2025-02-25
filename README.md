@@ -7,9 +7,22 @@ A **Flask + React** web app that uses **OpenAI's GPT API** to summarize text.
 - Flask backend & React frontend
 - Secure API key handling
 
-## 📁 Setup
+## 📁 Project Structure
+```
+ai-summarizer-app/
+│── backend/             # Flask backend
+│   ├── app.py           # Main Flask app
+│   ├── requirements.txt # Python dependencies
+│   ├── .env             # API keys (ignored in Git)
+│── frontend/            # React frontend
+│── README.md            # Documentation
+│── .gitignore           # Ignore unnecessary files
+```
+
+## 🔧 Setup
 ### 1️⃣ Backend (Flask API)
 ```sh
+cd backend
 conda create -n summarizer python=3.10
 conda activate summarizer
 pip install -r requirements.txt
