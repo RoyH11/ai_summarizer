@@ -19,8 +19,11 @@ Author: @RoyH11
 > [!NOTE]
 > This project is part of my full-stack code challenge in 2025. 
 
+
+
 ---
-### 📁 Project Structure
+
+### Project Structure
 ```
 ai-summarizer-app/
 │── backend/             # Flask backend
@@ -34,7 +37,7 @@ ai-summarizer-app/
 
 ---
 
-### 🔧 Setup
+### Setup
 
 1. Backend (Flask API)
 ```sh
@@ -70,14 +73,14 @@ npm start
 ```
 ---
 
-### 🛤️ Roadmap
+### Roadmap
 - [x] Backend API
 - [x] Frontend UI
 - [ ] Deployment
 
 ---
 
-### 📜 License
+### License
 MIT License
 
 
