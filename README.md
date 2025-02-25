@@ -9,7 +9,7 @@
 
 Author: @RoyH11
 
-<img src="demo_ai_summarizer_gif.gif" alt="Demo" width="500"/>
+<img src="assets/demo_ai_summarizer_gif.gif" alt="Demo" width="500"/>
 
 
 🚀 I created a simple web app that uses **OpenAI's GPT API** to summarize text. 
