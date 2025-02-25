@@ -17,7 +17,7 @@ Author: @RoyH11
 - frontend: **React**
 
 > [!NOTE]
-> This project is part of my full-stack application challenge in 2025. 
+> This project is part of my full-stack code challenge in 2025. 
 
 ---
 ### 📁 Project Structure
