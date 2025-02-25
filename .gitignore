@@ -7,6 +7,15 @@ __pycache__/
 *.conda
 *.env
 *.ipynb_checkpoints
+backend/.env
+
+# Ignore dependencies
+backend/__pycache__/
+backend/.venv/
+
+# Node modules (React)
+frontend/node_modules/
+frontend/.env.local
 
 # Ignore system files
 .DS_Store

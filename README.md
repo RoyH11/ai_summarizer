@@ -1,11 +1,17 @@
 # AI Summarizer App
 
-A **Flask + React** web app that uses **OpenAI's GPT API** to summarize text.
+<!-- Badges -->
+![OpenAI](https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 🚀 Features
-- AI-powered text summarization
-- Flask backend & React frontend
-- Secure API key handling
+Author: [Roy Huang](https://github.com/RoyH11)
+
+🚀 I created a simple web app that uses **OpenAI's GPT API** to summarize text. 
+- backend: **Flask**
+- frontend: **React**
 
 ## 📁 Project Structure
 ```
@@ -51,22 +57,12 @@ npm start
 }
 ```
 
-## 🚀 Deployment
-- **Backend:** Render, Vercel, AWS (set `OPENAI_API_KEY` in env vars)
-- **Frontend:** Netlify, Vercel
-
 ## 🛤️ Roadmap
-- [ ] Improve UI with Material UI or TailwindCSS
-- [ ] Implement authentication for API access
-- [ ] Add support for multiple languages
-- [ ] Optimize model performance and response time
-- [ ] Deploy fully integrated app
+- [x] Backend API
+- [x] Frontend UI
+- [ ] Deployment
 
 ## 📜 License
 MIT License
 
-## 🌟 Contributors
-- **Your Name** (@yourgithub)
-
-Happy coding! 🚀
 
