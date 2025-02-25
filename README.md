@@ -7,13 +7,17 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Author: [Roy Huang](https://github.com/RoyH11)
+Author: @RoyH11
 
 🚀 I created a simple web app that uses **OpenAI's GPT API** to summarize text. 
 - backend: **Flask**
 - frontend: **React**
 
-## 📁 Project Structure
+> [!NOTE]
+> This project is part of my full-stack application challenge in 2025. 
+
+---
+### 📁 Project Structure
 ```
 ai-summarizer-app/
 │── backend/             # Flask backend
@@ -25,8 +29,11 @@ ai-summarizer-app/
 │── .gitignore           # Ignore unnecessary files
 ```
 
-## 🔧 Setup
-### 1️⃣ Backend (Flask API)
+---
+
+### 🔧 Setup
+
+1. Backend (Flask API)
 ```sh
 cd backend
 conda create -n summarizer python=3.10
@@ -38,14 +45,16 @@ Set OpenAI API key in `.env` or `~/.bashrc`, then run:
 python app.py
 ```
 
-### 2️⃣ Frontend (React UI)
+2. Frontend (React UI)
 ```sh
 cd frontend
 npm install
 npm start
 ```
 
-## 🔄 API Endpoint
+---
+
+### API Endpoint
 | Method | Endpoint  | Description |
 |--------|----------|-------------|
 | POST   | `/summarize` | Summarizes input text |
@@ -56,13 +65,16 @@ npm start
     "text": "Flask is a Python web framework."
 }
 ```
+---
 
-## 🛤️ Roadmap
+### 🛤️ Roadmap
 - [x] Backend API
 - [x] Frontend UI
 - [ ] Deployment
 
-## 📜 License
+---
+
+### 📜 License
 MIT License
 
 
