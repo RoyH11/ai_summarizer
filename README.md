@@ -7,12 +7,10 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-Author: @RoyH11
-
 <img src="assets/demo_ai_summarizer_gif.gif" alt="Demo" width="500"/>
 
 
-🚀 I created a simple web app that uses **OpenAI's GPT API** to summarize text. 
+🚀 A simple web app that uses **OpenAI's GPT API** to summarize text. 
 - backend: **Flask**
 - frontend: **React**
 
@@ -80,7 +78,9 @@ npm start
 
 ---
 
-### License
-MIT License
+### Author
+**Roy Huang**  
+📧 ruoqiuhuang@gmail.com
+
 
 
